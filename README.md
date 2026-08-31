@@ -1,7 +1,7 @@
 # 🚀 Puesta en Marcha de la Microempresa Asociativa Cooperativa
 
 <p align="center">
-  <img src="img/cooperativa.jpg" width="700" alt="Cooperativa">
+  <img src="https://res.cloudinary.com/h0ihazfj/image/upload/f_auto,q_auto/cooperativa" width="700" alt="Cooperativa">
 </p>
 
 ## 📖 Introducción
