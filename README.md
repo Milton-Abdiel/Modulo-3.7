@@ -70,7 +70,7 @@ Comienzo de las actividades productivas o de prestación de servicios.
 ## 🖼️ Trabajo en Equipo
 
 <p align="center">
-  <img src="img/trabajo-equipo.jpg" width="650" alt="Trabajo en Equipo">
+  <img src="https://res.cloudinary.com/h0ihazfj/image/upload/f_auto,q_auto/trabajo-equipo" width="650" alt="Trabajo en Equipo">
 </p>
 
 El trabajo en equipo es la base del éxito de una cooperativa. La cooperación entre los miembros permite alcanzar metas comunes, mejorar la productividad y fortalecer la organización.
